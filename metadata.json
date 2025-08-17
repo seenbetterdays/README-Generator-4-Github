@@ -1,0 +1,5 @@
+{
+  "name": "RepoScripter: The Autonomous README & Documentation Generator",
+  "description": "An autonomous agent that generates comprehensive and professional documentation by analyzing an entire code repository. It infers the project's purpose, generates installation and usage instructions, and documents primary functions to automate a tedious but essential development task.",
+  "requestFramePermissions": []
+}
